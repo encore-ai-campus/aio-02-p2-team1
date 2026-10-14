@@ -10,7 +10,7 @@
   <a href="https://docs.google.com/spreadsheets/d/1brT3K545SXhbJ1fCN5n7Us0mg060ppBf7W0hdRXNsgU/edit?gid=0#gid=0">사용자 요구사항 정의서</a> |
   <a href="https://github.com/munchkin112/Q-Net-Backend/blob/dev/docs/API_설계서.md">API 설계서</a> |
   <a href="./docs/자격잇다-에이전트-아키텍처-설계.md">아키텍처 설계서</a> |
-  <a href="자동화_범위_구글_링크">자동화 범위</a>
+  <a href="https://docs.google.com/spreadsheets/d/1brT3K545SXhbJ1fCN5n7Us0mg060ppBf7W0hdRXNsgU/edit?gid=411373342#gid=411373342">자동화 범위</a>
 </p>
 
 ---
