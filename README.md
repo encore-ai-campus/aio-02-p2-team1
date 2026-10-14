@@ -48,7 +48,7 @@
 
 ## 2. 사용자 요구사항 정의서
 
-[사용자 요구사항 정의서 보기](https://docs.google.com/spreadsheets/d/1brT3K545SXhbJ1fCN5n7Us0mg060ppBf7W0hdRXNsgU/edit?gid=0#gid=0)
+[자격잇다_사용자_요구사항_정의서](https://docs.google.com/spreadsheets/d/1brT3K545SXhbJ1fCN5n7Us0mg060ppBf7W0hdRXNsgU/edit?gid=0#gid=0)
 
 ## 3. 주요 기능
 
