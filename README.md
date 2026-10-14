@@ -6,8 +6,6 @@
 
 <p align="center">관심 분야와 사용자 조건을 바탕으로 자격증을 추천하고, 선택한 시험 일정을 Google Calendar에 등록합니다.</p>
 
-<!-- 대표 이미지 자리: 완성한 이미지를 여기에 가운데 정렬하여 삽입 -->
-
 <p align="center">
   <a href="https://docs.google.com/spreadsheets/d/1brT3K545SXhbJ1fCN5n7Us0mg060ppBf7W0hdRXNsgU/edit?gid=0#gid=0">사용자 요구사항 정의서</a> |
   <a href="https://github.com/munchkin112/Q-Net-Backend/blob/dev/docs/API_설계서.md">API 설계서</a> |
@@ -60,7 +58,13 @@
 
 ## 3. 주요 화면 한눈에 보기
 
-<!-- 기능별 화면을 모은 스크린샷 자리 -->
+<p align="center">
+  <img src="./docs/readme-screen-flow-01.png" alt="조건 입력부터 자격증 상세 확인까지의 주요 화면 4개" width="100%">
+</p>
+
+<p align="center">
+  <img src="./docs/readme-screen-flow-02.png" alt="Google Calendar 웹·모바일 연동 화면 4개" width="100%">
+</p>
 
 ## 4. 서비스 이용 흐름
 
@@ -157,9 +161,9 @@ npm run dev
 
 ## 10. 팀 구성 및 역할
 
-| 담당 영역 | 주요 작업 |
-| --- | --- |
-| 기획·프로젝트 관리 | 요구사항 정리, 협업 조율, 시연·문서 구성 |
-| 백엔드·데이터 | 공식 자료 수집·정리, FastAPI·DB·추천 API 구현 |
-| 프론트엔드·Calendar·배포 | 화면 연결, Calendar 권한·일정 등록 흐름, 실행 환경 구성 |
-| 화면 설계·프론트엔드 보조 | 와이어프레임과 화면 점검, 사용자 흐름 검토 |
+| 이름 | 역할 | 담당 영역 | GitHub |
+| --- | --- | --- | --- |
+| 강민우 | FE | 화면 설계 및 API 연동 | [akfxkfkd135-collab](https://github.com/akfxkfkd135-collab) |
+| 박서윤 | 팀장, PM, GoogleAuth | 문서 정리 및 BE Agent/FE 기능 보조, Google Auth API | [seoyun-park](https://github.com/seoyun-park) |
+| 배소정 | 프론트, 배포 | 화면 구현, Git branch merge, Google Calendar API, DB/API 설계서 | [thwjd9393](https://github.com/thwjd9393) |
+| 임익현 | BE | FastAPI API, PostgreSQL 연동, LangGraph 기반 자격증 추천, Google Calendar 연동 및 통합 테스트 | [munchkin112](https://github.com/munchkin112) |
