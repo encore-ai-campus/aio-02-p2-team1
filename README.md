@@ -7,8 +7,6 @@
 <!-- 대표 이미지 자리: 완성한 이미지를 여기에 가운데 정렬하여 삽입 -->
 
 <p align="center">
-  <a href="https://github.com/munchkin112/Q-Net-Backend/tree/dev">백엔드 코드</a> ·
-  <a href="https://github.com/munchkin112/Q-Net-Frontend/tree/dev">프론트엔드 코드</a> ·
   <a href="https://github.com/munchkin112/Q-Net-Backend/blob/dev/docs/API_설계서.md">API 설계서</a> ·
   <a href="https://github.com/munchkin112/Q-Net-Backend/blob/dev/docs/팀_공유문서.md">팀 공유 문서</a>
 </p>
