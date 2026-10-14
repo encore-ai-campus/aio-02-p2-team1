@@ -163,7 +163,7 @@ npm run dev
 
 | 이름 | 역할 | 담당 영역 | GitHub |
 | --- | --- | --- | --- |
-| 강민우 | FE | 화면 설계 및 API 연동 | [akfxkfkd135-collab](https://github.com/akfxkfkd135-collab) |
-| 박서윤 | 팀장, PM, GoogleAuth | 문서 정리 및 BE Agent/FE 기능 보조, Google Auth API | [seoyun-park](https://github.com/seoyun-park) |
-| 배소정 | 프론트, 배포 | 화면 구현, Git branch merge, Google Calendar API, DB/API 설계서 | [thwjd9393](https://github.com/thwjd9393) |
+| 강민우 | 와이어프레임 초안 수정 및 문서 점검  | [akfxkfkd135-collab](https://github.com/akfxkfkd135-collab) |
+| 박서윤 | 팀장, PM | 문서 정리 및 BE Agent/FE 기능 점검 | [seoyun-park](https://github.com/seoyun-park) |
+| 배소정 | FE, 배포 | 화면 구현, Git branch merge, Google Calendar API, DB/API 설계서 | [thwjd9393](https://github.com/thwjd9393) |
 | 임익현 | BE | FastAPI API, PostgreSQL 연동, LangGraph 기반 자격증 추천, Google Calendar 연동 및 통합 테스트 | [munchkin112](https://github.com/munchkin112) |
